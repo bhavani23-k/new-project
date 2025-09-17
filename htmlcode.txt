@@ -24,7 +24,7 @@
             color: #333;
         }
         p {
-            line-height: 1.6;
+            line-height: 2.6;
         }
     </style>
 </head>
@@ -35,4 +35,5 @@
         <p>I'm a web enthusiast who loves creating beautiful and user-friendly websites. This is a simple webpage to introduce myself. Feel free to explore and learn more about HTML!</p>
     </div>
 </body>
+
 </html>
